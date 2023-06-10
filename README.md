@@ -10,7 +10,7 @@
 ## Project Description
 This project explores a database from Kaggle, based on Airbnb. It is selected to analyze the prices of the properties in Istanbul. By exploring the dataset, our goal is to reveal what factors are driving pricing trends. The insights gained from data analysis will enable us to predict a comprehensive understanding of the Airbnb market in Istanbul.
 
-<img src="/figures/map_heatmap.png">
+
 
 ## Table of Contents
 - [Project Description](#project-description)
